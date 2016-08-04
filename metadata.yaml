@@ -1,0 +1,33 @@
+_repo: The-Romance-of-the-Colorado-River--13-The-Story-of-its-Discovery-in-1840-with-an-Account-of-th__4316
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dellenbaugh, Frederick Samuel
+    alias: Dellenbaugh, Frederick S.
+    birthdate: 1853
+    deathdate: 1935
+    gutenberg_agent_id: '1437'
+    url: http://www.gutenberg.org/2009/agents/1437
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F786'
+- !lcsh 'Grand Canyon (Ariz.) -- Description and travel'
+- !lcsh 'Grand Canyon (Ariz.) -- Discovery and exploration'
+- !lcsh 'Colorado River Valley (Colo.-Mexico) -- Description and travel'
+- !lcsh 'Colorado River (Colo.-Mexico) -- Description and travel'
+- !lcsh 'Powell, John Wesley, 1834-1902'
+- !lcsh 'Colorado River (Colo.-Mexico) -- Discovery and exploration'
+- !lcsh 'Colorado River Valley (Colo.-Mexico) -- Discovery and exploration'
+- GITenberg
+title: "The Romance of the Colorado River\r\nThe Story of its Discovery in 1840, with\
+  \ an Account of the Later Explorations, and with Special Reference to the Voyages\
+  \ of Powell through the Line of the Great Canyons"
+url: http://www.gutenberg.org/ebooks/4316
